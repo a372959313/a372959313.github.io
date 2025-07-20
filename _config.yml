@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Wanfang Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher in extremal graph theory"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoctoral Researcher in Extremal Graph Theory"
+  location         : "CN"
+  employer         : "USTC"
   uri              : # URL
   email            : "chenwanfang@ustc.edu.cn" 
 
