@@ -1,7 +1,7 @@
 ---
 title: "Extremal graphs for two vertex-disjoint copies of a clique"
 collection: publications
-category: Journal Article
+category: manuscripts
 permalink: /publication/2022-05-01-extremal-graphs-for-two-vertex-disjoint-copies-of-a-clique
 date: 2022-05-01
 venue: 'Graphs Combin.'
