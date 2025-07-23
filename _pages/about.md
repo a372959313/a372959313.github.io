@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Researcher at the University of Science and Technology of China (USTC), collaborating with Professor Xizhi Liu. I obtained my Ph.D. degree from the School of Mathematical Sciences, East China Normal University , under the supervision of Professor Changhong Lu. Back in 2018, I received my B.S. degree from the School of Mathematical Sciences, East China Normal University.
+I’m currently a postdoctoral researcher at the University of Science and Technology of China (USTC), working with Professor Xizhi Liu. I received my Ph.D. in mathematics from East China Normal University, where I was fortunate to be advised by Professor Changhong Lu. Before that, I earned my B.S. degree—also from East China Normal University—in 2018.
 
-Feel free to contact me if you're interested in collaborating on Turán-type extremal problems or other interesting topics. Email: 372959313@qq.com
+If you're interested in Turán-type extremal problems or any other intriguing questions in graph theory and combinatorics, feel free to get in touch. My Email: 372959313@qq.com
 
 [Email](mailto:chenwanfang@ustc.edu.cn) / [Wechat](images/wechat.jpg)
