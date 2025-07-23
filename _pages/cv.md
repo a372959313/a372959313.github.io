@@ -13,14 +13,14 @@ Education
 ======
 * Ph.D. in Mathematics, East China Normal University, 2025 
   Research direction: Graph Theory and its Applications
-  Supervisor: Professor Changhong Lv
+  Supervisor: Professor Changhong Lu
 * B.Sc. in Mathematics, East China Normal University, 2018
 
 Work experience
 ======
 * 2025–2027: Postdoctoral Research Fellow  
   * University of Science and Technology of China (USTC)  
-  * Duties included: Research
+  * Duties included: Research in Extremal Graph Theory
   * Supervisor: Professor Xizhi Liu
 
 Publications
