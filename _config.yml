@@ -228,6 +228,8 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  markdown:
+    output: false
 
 
 # These settings control how pages and collections are included in the site
