@@ -11,4 +11,4 @@ I’m currently a postdoctoral researcher at the University of Science and Techn
 
 If you're interested in Turán-type extremal problems or any other intriguing questions in graph theory and combinatorics, feel free to get in touch. My Email: 372959313@qq.com
 
-[Email](mailto:chenwanfang@ustc.edu.cn) / [Wechat](images/wechat.jpg)
+[Email](mailto:372959313@qq.com) / [Wechat](images/wechat.jpg)
